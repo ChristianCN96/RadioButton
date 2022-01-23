@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">app_RadioButton</string>
+    <string name="txt_primeraValor">Ingresa el primer valor</string>
+    <string name="txt_segundoValor">Ingresa el segundo</string>
+    <string name="rb_suma">Suma</string>
+    <string name="rb_restar">Resta</string>
+    <string name="button">CALCULAR</string>
+    <string name="tv_result">Resultado</string>
+</resources>
